@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.btn {
+  height: 30px;
+  width: 300px;
+  /* background-color: aquamarine; */
+  border-radius: 15px;
+  margin-top: 50px;
+}
+#yellowgreen {
+  background-color: yellowgreen;
+}
+#aqua {
+  background-color: aqua;
+}
+#aquamarine {
+  background-color: aquamarine;
+}
+#red {
+  background-color: red;
+}
+#blue {
+  background-color: blue;
+}
+#green {
+  background-color: green;
+}
+#yellow {
+  background-color: yellow;
+}
+#gold {
+  background-color: gold;
+}
+#silver {
+  background-color: silver;
+}
+#orange {
+  background-color: orange;
+}
